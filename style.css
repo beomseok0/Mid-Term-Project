@@ -12,7 +12,7 @@
 
 /* 백그라운드 이미지 */
 .bg-gif{
-    background-image: url("Image/mymy.gif");
+    background-image: url("Image/mymy.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
